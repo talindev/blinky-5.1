@@ -4,7 +4,7 @@
 
 <h1 align="center">Blinky 5.1</h1>
 
-![KiCad](https://img.shields.io/badge/ECAD-KiCad_9.0-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![KiCad](https://img.shields.io/badge/ECAD-KiCad_10.0-314CB0?style=flat-square&logo=kicad&logoColor=white)
 ![Layers](https://img.shields.io/badge/PCB-2--Layer_FR--4-2E7D32?style=flat-square)
 ![Topology](https://img.shields.io/badge/Circuit-CMOS_7555_Astable-D97706?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Fab_Ready_(DRC_Clean)-success?style=flat-square)
