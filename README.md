@@ -1,4 +1,8 @@
-# Blinky 5.1
+<p align="center">
+  <img src="docs/render_top.png" alt="Blinky 5.1 3D Top Render" width="900">
+</p>
+
+<h1 align="center">Blinky 5.1</h1>
 
 ![KiCad](https://img.shields.io/badge/ECAD-KiCad_9.0-314CB0?style=flat-square&logo=kicad&logoColor=white)
 ![Layers](https://img.shields.io/badge/PCB-2--Layer_FR--4-2E7D32?style=flat-square)
