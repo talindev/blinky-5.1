@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "getting_to_blinky") (type "KiCad") (uri "${KIPRJMOD}/libs/getting_to_blinky.pretty") (options "") (descr ""))
+)

@@ -1,0 +1,7 @@
+"Id";"Designador";"Footprint";"Quantidade";"Designação";"Fornecedor e referência";
+1;"BT1";"S8211-46R";1;"CR2032";;;
+2;"C1";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";1;"1U";;;
+3;"D1";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"LED";;;
+4;"R1, R3";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";2;"1K";;;
+5;"RV1";"Potentiometer_Bourns_3314G_Vertical";1;"500K";;;
+6;"U1";"SOIC-8_3.9x4.9mm_P1.27mm";1;"7555";;;

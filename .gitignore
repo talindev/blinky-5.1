@@ -1,0 +1,14 @@
+cat << 'EOF' > .gitignore
+*-backups/
+*.lck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-save.kicad_pcb
+*-save.kicad_sch
+fp-info-cache
+sym-lib-table~
+fp-lib-table~
+_autosave-*
+*.tmp
+.DS_Store
+EOF
